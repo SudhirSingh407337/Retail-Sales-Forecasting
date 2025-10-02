@@ -10,6 +10,10 @@ This project focuses on **forecasting retail sales** using advanced machine lear
 
 ## 📊 Dataset
 
+[![Retail Sales Forecasting: Dataset](https://img.youtube.com/vi/USyAQthTZ08/0.jpg)](https://youtu.be/USyAQthTZ08)
+
+[Retail Sales Forecasting: Dataset](https://youtu.be/USyAQthTZ08)  
+
 The dataset (`stores_sales_forecasting.csv`) contains historical sales data with the following features:
 
 - **Date**: Date of the sales record
@@ -28,11 +32,19 @@ The dataset (`stores_sales_forecasting.csv`) contains historical sales data with
 
 ### 1. Data Exploration & Visualization
 
+[![Retail Sales Forecasting: Data Exploration & Visualization](https://img.youtube.com/vi/LJ5FTpbVtJM/0.jpg)](https://youtu.be/LJ5FTpbVtJM)
+
+[Retail Sales Forecasting: Data Exploration & Visualization](https://youtu.be/LJ5FTpbVtJM)  
+
 - **Target Distribution Analysis**: Visualizing sales trends and seasonality
 - **Store and Item Analysis**: Exploring sales patterns across stores and items
 - **Key Insights**: Identifying seasonality, trends, and anomalies in sales data
 
 ### 2. Feature Engineering
+
+[![Retail Sales Forecasting: Feature Engineering](https://img.youtube.com/vi/06y61jw7DYY/0.jpg)](https://youtu.be/06y61jw7DYY)
+
+[Retail Sales Forecasting: Feature Engineering](https://youtu.be/06y61jw7DYY) 
 
 - **Lag Features**: Creating lagged versions of sales metrics to capture historical patterns
 - **Rolling Statistics**: Calculating rolling means, standard deviations, and other metrics
@@ -42,6 +54,10 @@ The dataset (`stores_sales_forecasting.csv`) contains historical sales data with
   - Sales growth rates
 
 ### 3. Model Training & Evaluation
+
+[![Retail Sales Forecasting: Model Training & Evaluation](https://img.youtube.com/vi/x6iP4EEz8wE/0.jpg)](https://youtu.be/x6iP4EEz8wE)
+
+[Retail Sales Forecasting: Model Training & Evaluation](https://youtu.be/x6iP4EEz8wE)  
 
 - **Multi-Algorithm Approach**:
   - **Linear Regression**: Simple and interpretable model
